@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BabuOne
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Python, HTML, CSS
+- 🌱 I’m currently learning Javascript, HTML, CSS and eventually Python, again.
 - 📫 How to reach me babu_one@gmx.net
 
 <!---
