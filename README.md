@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BabuOne aka Oyabun Oski
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Javascript, HTML, CSS and eventually Python, again.
+- 🌱 I’m currently learning Javascript, HTML, CSS and eventually Python, again...
 - 📫 How to reach me babu_one@gmx.net
 
 <!---
