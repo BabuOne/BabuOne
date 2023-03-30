@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BabuOne aka Oyabun Oski
-- 👀 I’m interested in Web Devlopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, HTML, CSS and eventually Python, again...
 - 📫 How to reach me babu_one@gmx.net
 
