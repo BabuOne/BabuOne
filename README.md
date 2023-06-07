@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BabuOne aka Oyabun Oski
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, HTML, CSS and eventually Python, again...
+- 👀 I’m interested in Web Development, Writing, Sketching and Cooking.
+- 🌱 I’m currently coding Front-End with Javascript, HTML, CSS and eventually Python, again... Back-End with Node.js and Express.js as the framework.
 - 📫 How to reach me babu_one@gmx.net
 
 <!---
